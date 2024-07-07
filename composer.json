@@ -25,15 +25,15 @@
         }
     ],
     "require": {
-        "php": "^7.3|^7.4|^8.0",
-        "aws/aws-sdk-php": "^3.178",
-        "guzzlehttp/guzzle": "^6.0|^7.0",
-        "illuminate/support": "5.*|^6.0|^7.0|^8.0|^9.0|^10.0",
+        "php": "^8.3",
+        "aws/aws-sdk-php": "^3.315.6",
+        "guzzlehttp/guzzle": "^7.8.1",
+        "illuminate/support": "^10.0|^11.0",
         "ext-json": "*"
     },
     "require-dev": {
-        "orchestra/testbench": "^4.0|^5.0|^6.0|^7.0|^8.0",
-        "phpunit/phpunit": "^5.0|^6.0|^8.0|^9.0|^10.0"
+        "orchestra/testbench": "^8.0|^9.0",
+        "phpunit/phpunit": "^9.0|^10.0"
     },
     "autoload": {
         "psr-4": {
